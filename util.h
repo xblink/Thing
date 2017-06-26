@@ -14,6 +14,4 @@ struct process {
     char ** argv;
 };
 
-
-int log()
 #endif
