@@ -5,7 +5,8 @@
 
 class RoomManager{
     private:
-
+        RoomManager();
+        ~RoomManager();
         int fetch();
         int create();
         int remove();

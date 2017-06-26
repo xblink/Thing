@@ -13,4 +13,7 @@ struct process {
     int argc;
     char ** argv;
 };
+
+
+int log()
 #endif
